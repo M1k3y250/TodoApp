@@ -54,4 +54,4 @@ Capturas de pantalla: docs/screenshots/
 
 ## Créditos
 Autor: MICHAEL RAMIREZ TORRES
-Proyecto académico: Aplicación móvil de Todos con categorías (Flutter + Dart).
+- Proyecto: Aplicación móvil de Todos con categorías (Flutter + Dart).
